@@ -1,0 +1,155 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/workspace/Paper/DataSharing/Cloud/Silent-Share/src/contracts/PriMEDeal.sol": {
+      "lastModificationDate": 1780074157507,
+      "contentHash": "9b82f5bdb8e932b11567b126d22926b8",
+      "sourceName": "PriMEDeal.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "viaIR": true,
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./Verifier_zkp_nb100_tb5_m20.sol"
+      ],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "PriMEDeal"
+      ]
+    },
+    "/workspace/Paper/DataSharing/Cloud/Silent-Share/src/contracts/Test.sol": {
+      "lastModificationDate": 1780027773716,
+      "contentHash": "88753a8a120fd06b7af5a3e536a564ba",
+      "sourceName": "Test.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "viaIR": true,
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "Test"
+      ]
+    },
+    "/workspace/Paper/DataSharing/Cloud/Silent-Share/src/contracts/Verifier_zkp_nb500_tb5_m50.sol": {
+      "lastModificationDate": 1780072477055,
+      "contentHash": "86c2ff8227a40c32dd28cb2a6920091e",
+      "sourceName": "Verifier_zkp_nb500_tb5_m50.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "viaIR": true,
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Groth16Verifier"
+      ]
+    },
+    "/workspace/Paper/DataSharing/Cloud/Silent-Share/src/contracts/Verifier_zkp_nb100_tb5_m20.sol": {
+      "lastModificationDate": 1780073874419,
+      "contentHash": "b5d8149bc41fb4a1ed36ba165869006c",
+      "sourceName": "Verifier_zkp_nb100_tb5_m20.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "viaIR": true,
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Groth16Verifier"
+      ]
+    }
+  }
+}
